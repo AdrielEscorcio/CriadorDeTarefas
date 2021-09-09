@@ -82,11 +82,11 @@ ul {
 
 li {
     background-color: rgb(37, 34, 34);
-    margin: 10px;
-    padding: 5px;
+    padding: 10px;
     border-radius: 10px;
-    
-
+    width: 300px;
+    margin: auto;
+    margin-bottom: 10px;
 }
 
 button {
