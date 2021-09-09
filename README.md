@@ -1,4 +1,2 @@
 # CriadorDeTarefas
-Cria a tarefa
-Exclui cada tarefa separadamente 
-Exclui todas as tarefas criadas
+Cria a tarefa, exclui cada tarefa separadamente e Exclui todas as tarefas criadas
